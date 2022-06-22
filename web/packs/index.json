@@ -10,7 +10,8 @@
     "Menhera.json",
     "Senko.json",
     "Silvervale.json",
-    "Tamamo.json"
+    "Tamamo.json",
+    "Aster.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
