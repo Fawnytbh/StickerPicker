@@ -1,6 +1,16 @@
 {
   "packs": [
-    "stickers.json"
+    "stickers.json",
+    "02.json",
+    "Discord.json",
+    "HuTao.json",
+    "Kaede.json",
+    "Kanna.json",
+    "Lina.json",
+    "Menhera.json",
+    "Senko.json",
+    "Silvervale.json",
+    "Tamamo.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
